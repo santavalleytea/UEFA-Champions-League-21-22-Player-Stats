@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "ucl2021-22",
+      "database": "ucl2021-22",
+      "username": "postgres"
+    }
+  ]
+}
